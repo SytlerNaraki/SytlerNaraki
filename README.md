@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SytlerNaraki
 - 👀 I’m interested in developer...
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning C, python, html, css and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord Naraki#1428
 
