@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @SytlerNaraki
-- 👀 I’m interested in developer...
-- 🌱 I’m currently learning C, python, html, css and javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord Naraki#1428
+### Olá eu sou o Vinícius Fernandes 😊
 
-<!---
-SytlerNaraki/SytlerNaraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/148112059144339457)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sytlerpunisher)
+
+![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sytlernaraki&show_icons=true&theme=gruvbox)
+
+### Com o que costumo brincar no dia a dia
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+
+</div><br>
+
+Apenas um jovem, iniciante apaixonado por programação e sempre buscando aprender mais.
