@@ -17,4 +17,5 @@
 
 </div><br>
 
-Apenas um jovem, iniciante apaixonado por programação e sempre buscando aprender mais.
+Apenas um iniciante, apaixonado por programação e sempre buscando aprender mais.
+
