@@ -17,7 +17,6 @@
 
 </div><br>
 
-Apenas um iniciante, apaixonado por programação e sempre buscando aprender mais.
 
 ### Contatos:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1669221926)
